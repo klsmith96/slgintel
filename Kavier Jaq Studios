@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLG Studio - Cleanliness, Creativity, Innovation</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo-container">
+                <img src="path/to/your/slg-logo.png" alt="SLG Logo" class="slg-logo">
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="#home" class="nav-button home-button">Home</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="search-bar-container">
+                <input type="text" class="search-bar" placeholder="Search...">
+                <button class="search-button">🔍</button>
+            </div>
+            <div class="explore-container">
+                <button class="explore-button">
+                    <span class="explore-icon">☰</span> Explore
+                </button>
+                <div class="explore-dropdown">
+                    <button class="close-dropdown">X</button>
+                    <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#collections">Collections (Projects)</a></li>
+                        <li><a href="#partners">Partners</a></li>
+                        <li><a href="#upcoming-projects">Upcoming Projects</a></li>
+                        <li><a href="#news">News</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="headline-banner">
+            <h1>SLG Studio: Where Vision Meets Excellence</h1>
+            <p>Cleanliness. Creativity. Innovation. Professionalism. Highest Level of Service.</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section id="home" class="page-section home-section">
+            </section>
+
+        <section id="about" class="page-section">
+            <h2>About SLG Studio</h2>
+            <p>Welcome to SLG Studio, a realm where the precision of a medical office converges with the curated elegance of a boutique kitchen. We are dedicated to fostering environments of unparalleled cleanliness, igniting creative solutions, pioneering innovative approaches, upholding the highest standards of professionalism, and delivering service that transcends expectation.</p>
+            <p>Our philosophy is rooted in the belief that true excellence emerges from a blend of meticulous detail, imaginative foresight, and unwavering commitment. We strive to be more than just a service provider; we aim to be a partner in your success, building relationships based on trust, transparency, and a shared vision for distinction.</p>
+        </section>
+
+        <section id="partners" class="page-section">
+            <h2>Partners & People</h2>
+            <p class="section-description">Click on a partner to reveal more details and their story.</p>
+            <div class="partners-grid">
+                <div class="partner-card" data-partner="lesly">
+                    <img src="path/to/lesly-photo.jpg" alt="Lesly">
+                    <h3>Lesly</h3>
+                    <div class="partner-details">
+                        <p>Detailed information about Lesly...</p>
+                        <p>Role: Founder, Visionary</p>
+                    </div>
+                </div>
+                <div class="partner-card" data-partner="les-esti-glo">
+                    <img src="path/to/les-esti-glo-photo.jpg" alt="Les Esti Glo">
+                    <h3>Les Esti Glo</h3>
+                    <div class="partner-details">
+                        <p>Detailed information about Les Esti Glo...</p>
+                        <p>Role: Creative Director</p>
+                    </div>
+                </div>
+                <div class="partner-card" data-partner="keyshawn">
+                    <img src="path/to/keyshawn-photo.jpg" alt="Keyshawn">
+                    <h3>Keyshawn</h3>
+                    <div class="partner-details">
+                        <p>Detailed information about Keyshawn...</p>
+                        <p>Role: Lead Innovator</p>
+                    </div>
+                </div>
+                <div class="partner-card" data-partner="smith-lafay-global-llc">
+                    <img src="path/to/smith-lafay-global-llc-photo.jpg" alt="Smith Lafay Global LLC">
+                    <h3>Smith Lafay Global LLC</h3>
+                    <div class="partner-details">
+                        <p>Detailed information about Smith Lafay Global LLC...</p>
+                        <p>Role: Strategic Partner</p>
+                    </div>
+                </div>
+                <div class="partner-card" data-partner="kavier-jaq">
+                    <img src="path/to/kavier-jaq-photo.jpg" alt="Kavier Jaq">
+                    <h3>Kavier Jaq</h3>
+                    <div class="partner-details">
+                        <p>Detailed information about Kavier Jaq...</p>
+                        <p>Role: Operations Manager</p>
+                    </div>
+                </div>
+                </div>
+        </section>
+
+        <section id="collections" class="page-section">
+            <h2>Our Collections (Projects)</h2>
+            <p class="section-description">Browse through our curated portfolio of innovative projects.</p>
+            <div class="binder-container">
+                <div class="binder-spine"></div>
+                <div class="binder-pages">
+                    <div class="project-page active" data-project="hospitality">
+                        <h3>The Hospitality Project</h3>
+                        <p>Details about the Hospitality Project. This project focused on...</p>
+                        <img src="path/to/hospitality-project.jpg" alt="Hospitality Project">
+                    </div>
+                    <div class="project-page" data-project="smart-contract">
+                        <h3>Smart Contract Project</h3>
+                        <p>Details about the Smart Contract Project. We developed a secure and efficient smart contract solution for...</p>
+                        <img src="path/to/smart-contract-project.jpg" alt="Smart Contract Project">
+                    </div>
+                    <div class="project-page" data-project="decentralized-crypto">
+                        <h3>Decentralized Crypto Project</h3>
+                        <p>Details about the Decentralized Crypto Project. Exploring the future of finance with...</p>
+                        <img src="path/to/decentralized-crypto-project.jpg" alt="Decentralized Crypto Project">
+                    </div>
+                    <div class="project-page" data-project="booking-system">
+                        <h3>Advanced Booking System</h3>
+                        <p>Details about the Booking System Project. A robust and user-friendly booking platform designed for...</p>
+                        <img src="path/to/booking-system-project.jpg" alt="Booking System Project">
+                    </div>
+                    <div class="binder-navigation">
+                        <button class="prev-project">Previous</button>
+                        <button class="next-project">Next</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="upcoming-projects" class="page-section">
+            <h2>Upcoming Projects</h2>
+            <p>Stay tuned for exciting new ventures and innovations from SLG Studio. Here's a glimpse of what's on our horizon:</p>
+            <ul>
+                <li><strong>Project Alpha:</strong> A groundbreaking initiative in sustainable design.</li>
+                <li><strong>InnovateX:</strong> Developing next-generation AI-powered solutions.</li>
+                <li><strong>Quantum Secure Protocol:</strong> Enhancing digital security with cutting-edge cryptography.</li>
+            </ul>
+            <p>More details will be unveiled soon!</p>
+        </section>
+
+        <section id="news" class="page-section">
+            <h2>News & Insights</h2>
+            <p>Stay updated with the latest from SLG Studio and relevant industry news. (This section would typically be populated via an API or backend for dynamic content streaming).</p>
+            <div class="news-feed">
+                <article class="news-item">
+                    <h3>Title of News Article 1</h3>
+                    <p class="news-source">Source: Tech Daily</p>
+                    <p>Brief summary of the article content... <a href="#" target="_blank">Read more</a></p>
+                </article>
+                <article class="news-item">
+                    <h3>Title of Blog Post</h3>
+                    <p class="news-source">Source: SLG Blog</p>
+                    <p>Our latest insights on innovation in the design space... <a href="#" target="_blank">Read more</a></p>
+                </article>
+                <article class="news-item">
+                    <h3>Industry Update: The Future of Clean Design</h3>
+                    <p class="news-source">Source: Design Magazine</p>
+                    <p>An important trend analysis impacting our industry... <a href="#" target="_blank">Read more</a></p>
+                </article>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
