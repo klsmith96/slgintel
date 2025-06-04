@@ -50,7 +50,7 @@
 
         <section id="about" class="page-section">
             <h2>About SLG Studio</h2>
-            <p>Welcome to SLG Studio, a realm where the precision of a medical office converges with the curated elegance of a boutique kitchen. We are dedicated to fostering environments of unparalleled cleanliness, igniting creative solutions, pioneering innovative approaches, upholding the highest standards of professionalism, and delivering service that transcends expectation.</p>
+            <p>Welcome to SLG Studio, a digital space for innovation, experimenting and awareness. The goal of this concept is to demonstrate digital marketing materials, technical acumen, and an assortment of projects that myself, K. Lee Smith, wants to use for professional showcasing. We are dedicated to fostering environments of unparalleled cleanliness, igniting creative solutions, pioneering innovative approaches, upholding the highest standards of professionalism, and delivering service that transcends expectation.</p>
             <p>Our philosophy is rooted in the belief that true excellence emerges from a blend of meticulous detail, imaginative foresight, and unwavering commitment. We strive to be more than just a service provider; we aim to be a partner in your success, building relationships based on trust, transparency, and a shared vision for distinction.</p>
         </section>
 
@@ -58,28 +58,12 @@
             <h2>Partners & People</h2>
             <p class="section-description">Click on a partner to reveal more details and their story.</p>
             <div class="partners-grid">
-                <div class="partner-card" data-partner="lesly">
-                    <img src="path/to/lesly-photo.jpg" alt="Lesly">
-                    <h3>Lesly</h3>
+                <div class="partner-card" data-partner="Mr-Smith">
+                    <img src="path/to/keyshawn-photo.jpg" alt="Mr. Smith">
+                    <h3>K. Lee Smith</h3>
                     <div class="partner-details">
-                        <p>Detailed information about Lesly...</p>
-                        <p>Role: Founder, Visionary</p>
-                    </div>
-                </div>
-                <div class="partner-card" data-partner="les-esti-glo">
-                    <img src="path/to/les-esti-glo-photo.jpg" alt="Les Esti Glo">
-                    <h3>Les Esti Glo</h3>
-                    <div class="partner-details">
-                        <p>Detailed information about Les Esti Glo...</p>
-                        <p>Role: Creative Director</p>
-                    </div>
-                </div>
-                <div class="partner-card" data-partner="keyshawn">
-                    <img src="path/to/keyshawn-photo.jpg" alt="Keyshawn">
-                    <h3>Keyshawn</h3>
-                    <div class="partner-details">
-                        <p>Detailed information about Keyshawn...</p>
-                        <p>Role: Lead Innovator</p>
+                        <p>Detailed information about Mr. Smith...</p>
+                        <p>Role: Founder</p>
                     </div>
                 </div>
                 <div class="partner-card" data-partner="smith-lafay-global-llc">
@@ -90,12 +74,12 @@
                         <p>Role: Strategic Partner</p>
                     </div>
                 </div>
-                <div class="partner-card" data-partner="kavier-jaq">
-                    <img src="path/to/kavier-jaq-photo.jpg" alt="Kavier Jaq">
-                    <h3>Kavier Jaq</h3>
+                <div class="partner-card" data-partner="kavier-jaq-studios">
+                    <img src="path/to/kavier-jaq-photo.jpg" alt="Kavier Jaq Studios">
+                    <h3>Kavier Jaq Studios</h3>
                     <div class="partner-details">
-                        <p>Detailed information about Kavier Jaq...</p>
-                        <p>Role: Operations Manager</p>
+                        <p>Detailed information about Kavier Jaq Studios...</p>
+                        <p>Role: Art Space</p>
                     </div>
                 </div>
                 </div>
@@ -151,9 +135,9 @@
             <p>Stay updated with the latest from SLG Studio and relevant industry news. (This section would typically be populated via an API or backend for dynamic content streaming).</p>
             <div class="news-feed">
                 <article class="news-item">
-                    <h3>Title of News Article 1</h3>
-                    <p class="news-source">Source: Tech Daily</p>
-                    <p>Brief summary of the article content... <a href="#" target="_blank">Read more</a></p>
+                    <h3>Cyber Risk & Integration</h3>
+                    <p class="news-source">Source: SLG Blog</p>
+                    <p>BAs technology continues to permeate all industries, assessing risks becomes crucial... <a href="https://www.linkedin.com/posts/k-lee-smith-ms-7679lfy_technologyintegration-businesssecurity-customersatisfaction-activity-7209369861569867777-LqNF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABQJUr8B_sT0AXyW4oJItIkGmS9lB0dGVjw" target="_blank">Read more</a></p>
                 </article>
                 <article class="news-item">
                     <h3>Title of Blog Post</h3>
@@ -172,3 +156,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+
